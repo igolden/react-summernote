@@ -1,7 +1,6 @@
 /* global $ */
 
 import "bootstrap/js/modal";
-import "bootstrap/js/dropdown";
 import "bootstrap/js/tooltip";
 import "summernote-webpack-fix/dist/summernote";
 import "summernote-webpack-fix/dist/summernote.css";
